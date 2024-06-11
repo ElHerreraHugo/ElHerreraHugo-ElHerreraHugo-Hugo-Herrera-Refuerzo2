@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lotería de números/1.0.0": {
+        "runtime": {
+          "Lotería de números.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lotería de números/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
